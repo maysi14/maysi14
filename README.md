@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi There, I'm sisi
 
-<!--
-**maysi14/maysi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:    
+- Nama                : Maysi israel
+- Alamat              : Kel. Tapuang
+- Tempat, Tgl Lahir   : Tahuna, 14 mei 2003
+- Jenis Kelamin       : Perempuan
+- Status              : Mahasiswa
+- Email               : maysisisilia@gmail.com
+- Nomor Hp            : 082138807102
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu "2021-sekarang"
+
+### 2. [SMK Negeri 1 Tahuna] | Administrasi perkantoran | Tahuna "2018-2021"
+
+
+<br />
+<br />
